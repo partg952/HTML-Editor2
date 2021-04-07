@@ -2,6 +2,8 @@
 
 body{
     background-color: wheat;
+    font-family: 'Roboto Mono', monospace;
+    
 }
 
 #main * {
@@ -12,12 +14,16 @@ body{
     outline: none;
     height: 90vh;
     margin: 20px;
+    font-family: 'Roboto Mono', monospace;
+    
     border-radius: 5px;
 }
 
 #editor {
     resize: none;
     font-size: 15px;
+    font-family: 'Roboto Mono', monospace;
+    
 }
 
 #main {
@@ -27,12 +33,16 @@ body{
     text-align: center;
     align-items: center;
     justify-content: center;
+    font-family: 'Roboto Mono', monospace;
+    
 }
 
 #upper {
     text-align: center;
     background-color: transparent;
     margin: 20px;
+    font-family: 'Roboto Mono', monospace;
+    
 }
 
 #upper button {
@@ -46,6 +56,8 @@ body{
     padding: 1rem;
     margin: 20px;   
     transition: all 0.3s ease-in-out;
+    font-family: 'Roboto Mono', monospace;
+    
 }
 
 #upper button:hover {
@@ -56,4 +68,6 @@ body{
     border-radius: 5px;
     width: 90px;
     padding: 1rem;
+    font-family: 'Roboto Mono', monospace;
+    
 }
